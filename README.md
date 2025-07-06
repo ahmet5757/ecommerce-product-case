@@ -105,17 +105,18 @@ This project was developed following modern web development best practices:
 
 ## Deployment
 
-### Frontend Deployment (Vercel/Netlify)
-```bash
-cd frontend
-npm run build
-```
+### Frontend Deployment (Vercel)
+Deployed on: [https://ecommerce-product-case-frontend.vercel.app](https://ecommerce-product-case.vercel.app)
 
-### Backend Deployment (Heroku/Railway)
-```bash
-cd backend
-npm start
-```
+### Backend Deployment (Render)
+Deployed on: [https://ecommerce-product-case-backend.onrender.com/products](https://ecommerce-product-case-backend.onrender.com/products)
+
+
+## Live Demo
+
+- 🔗 Frontend (Vercel): [https://ecommerce-product-case-frontend.vercel.app](https://ecommerce-product-case.vercel.app)
+- 🔗 Backend (Render): [https://ecommerce-product-case-backend.onrender.com/products](https://ecommerce-product-case-backend.onrender.com/products)
+
 
 ## Developer Notes
 
