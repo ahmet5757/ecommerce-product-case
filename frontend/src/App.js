@@ -8,7 +8,7 @@ function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:3001/products')
+    fetch(`${process.env.REACT_APP_API_URL}/products`)
       .then(res => res.json())
       .then(data => {
         setProducts(data);
